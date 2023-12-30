@@ -212,7 +212,7 @@ UniqueID=0D76A037-AC70-406B-B392-B4B61A4982D4
 Description=JLCPCB_Assy
 AllowFabrication=0
 ParameterCount=0
-VariationCount=25
+VariationCount=26
 Variation1=Designator=J3|UniqueId=\IJKHOLPL|Kind=1|AlternatePart= 
 Variation2=Designator=J2|UniqueId=\PXIEVUYR|Kind=1|AlternatePart= 
 Variation3=Designator=J1|UniqueId=\AIXPNHKY|Kind=1|AlternatePart= 
@@ -238,19 +238,20 @@ Variation22=Designator=C13|UniqueId=\TTQGZAAX|Kind=1|AlternatePart=
 Variation23=Designator=C101|UniqueId=\PLGJJGCQ|Kind=1|AlternatePart= 
 Variation24=Designator=IC56|UniqueId=\DETUUCBL|Kind=1|AlternatePart= 
 Variation25=Designator=IC4|UniqueId=\RGHXLHAY|Kind=1|AlternatePart= 
+Variation26=Designator=R561|UniqueId=\HTVNLLSZ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
-Name=
-Value=
-
-[Parameter2]
-Name=Sch_RevNo
+Name=BOM_RevNo
 Value=1.0
 
+[Parameter2]
+Name=Engineer_Name
+Value=Codion Ltd
+
 [Parameter3]
-Name=Sch_releaseDate
-Value=2023
+Name=PCB_RevNo
+Value=1.0
 
 [Parameter4]
 Name=Project_Title
@@ -261,15 +262,11 @@ Name=ProjectName
 Value=A3000_8MB
 
 [Parameter6]
-Name=PCB_RevNo
-Value=1.0
+Name=Sch_releaseDate
+Value=2023
 
 [Parameter7]
-Name=Engineer_Name
-Value=Codion Ltd
-
-[Parameter8]
-Name=BOM_RevNo
+Name=Sch_RevNo
 Value=1.0
 
 [Configuration1]
