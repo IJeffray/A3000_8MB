@@ -212,7 +212,7 @@ UniqueID=0D76A037-AC70-406B-B392-B4B61A4982D4
 Description=JLCPCB_Assy
 AllowFabrication=0
 ParameterCount=0
-VariationCount=26
+VariationCount=27
 Variation1=Designator=J3|UniqueId=\IJKHOLPL|Kind=1|AlternatePart= 
 Variation2=Designator=J2|UniqueId=\PXIEVUYR|Kind=1|AlternatePart= 
 Variation3=Designator=J1|UniqueId=\AIXPNHKY|Kind=1|AlternatePart= 
@@ -239,6 +239,7 @@ Variation23=Designator=C101|UniqueId=\PLGJJGCQ|Kind=1|AlternatePart=
 Variation24=Designator=IC56|UniqueId=\DETUUCBL|Kind=1|AlternatePart= 
 Variation25=Designator=IC4|UniqueId=\RGHXLHAY|Kind=1|AlternatePart= 
 Variation26=Designator=R561|UniqueId=\HTVNLLSZ|Kind=1|AlternatePart= 
+Variation27=Designator=C13|UniqueId=\LLCTMJTC|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
