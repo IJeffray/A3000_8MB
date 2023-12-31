@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=A3000_16MB.OutJob
+Name=A3000_8MB.OutJob
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=JLCPCB_Assy
@@ -145,7 +145,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=G:\AcornDev\A3000_16MB\Manufacturing Data\A3000_16MB_VariantName_Rev1.0\
+OutputFilePath3=G:\AcornDev\A3000_8MB\Manufacturing Data\A3000_8MB_VariantName_Rev1.0\
 ReleaseManaged3=0
 OutputBasePath3=Manufacturing Data\
 OutputPathMedia3==ProjectName+'_'+VariantName+'_Rev'+PCB_RevNo
@@ -162,7 +162,7 @@ OpenOutput3=0
 [GeneratedFilesSettings]
 RelativeOutputPath2=G:\AcornDev\A3000_16MB\Manufacturing Data\A3000_16MB_VariantName_Rev1.0\
 OpenOutputs2=0
-RelativeOutputPath3=G:\AcornDev\A3000_16MB\Manufacturing Data\A3000_16MB_VariantName_Rev1.0\
+RelativeOutputPath3=G:\AcornDev\A3000_8MB\Manufacturing Data\A3000_8MB_VariantName_Rev1.0\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0

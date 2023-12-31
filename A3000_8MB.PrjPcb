@@ -241,6 +241,10 @@ Variation25=Designator=IC4|UniqueId=\RGHXLHAY|Kind=1|AlternatePart=
 Variation26=Designator=R561|UniqueId=\HTVNLLSZ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for A3000_8MB\Design Rule Check - A3000_8MB.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=BOM_RevNo
 Value=1.0
