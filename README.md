@@ -1,6 +1,6 @@
 # Acorn A3000 8MB RAM board
 
-December 2023
+January 2024
 
 
 ![3D View](Generated/A3000_8MB_3D_View.PNG)
@@ -16,5 +16,5 @@ No warranty is provided, and this work is used at your own risk.
 
 Licenced as CC BY-SA 4.0
 
-Copyright 2023 Ian Jeffray
+Copyright 2024 Ian Jeffray
 
