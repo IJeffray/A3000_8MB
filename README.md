@@ -1,13 +1,13 @@
 # Acorn A3000 8MB RAM board
 
-January 2024
+February 2024
 
 
 ![3D View](Generated/A3000_8MB_3D_View.PNG)
 
 An 8MB RAM upgrade for Acorn A3000 machines.  The PAL, IC71, is a copy from that found in the Acorn A540.
 
-Work in progress...
+This has been built and tested and works well, but does still need the motherboard reset line to ARM severed and looped to this board, so ARM reset can be controlled from this board -- still looking in to solutions for that.
 
 
 ## Licence
