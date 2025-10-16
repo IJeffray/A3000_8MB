@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=JLCPCB_Assy
 
 [Preferences]
 PrefsVaultGUID=
@@ -212,69 +213,66 @@ UniqueId=0D76A037-AC70-406B-B392-B4B61A4982D4
 Description=JLCPCB_Assy
 AllowFabrication=0
 ParameterCount=0
-VariationCount=34
-Variation1=Designator=J3|UniqueId=\IJKHOLPL|Kind=1|AlternatePart=
-Variation2=Designator=J2|UniqueId=\PXIEVUYR|Kind=1|AlternatePart=
-Variation3=Designator=J1|UniqueId=\AIXPNHKY|Kind=1|AlternatePart=
-Variation4=Designator=PL1|UniqueId=\JDCSYMYE|Kind=1|AlternatePart=
-Variation5=Designator=SK1|UniqueId=\AHBHSKMJ|Kind=1|AlternatePart=
-Variation6=Designator=U1|UniqueId=\NWXHZSEQ|Kind=1|AlternatePart=
-Variation7=Designator=U2|UniqueId=\UNKIPXSA|Kind=1|AlternatePart=
-Variation8=Designator=IC71|UniqueId=\DJZUXNTK|Kind=1|AlternatePart=
-Variation9=Designator=RST_IN|UniqueId=\EAVHPBAA|Kind=1|AlternatePart=
-Variation10=Designator=SK2|UniqueId=\MAIORGJK|Kind=1|AlternatePart=
-Variation11=Designator=U21|UniqueId=\YHOMWHYI|Kind=1|AlternatePart=
-Variation12=Designator=U22|UniqueId=\SUZOSCTZ|Kind=1|AlternatePart=
-Variation13=Designator=C7|UniqueId=\KKCVHFCX|Kind=1|AlternatePart=
-Variation14=Designator=C8|UniqueId=\XLYEEPUD|Kind=1|AlternatePart=
-Variation15=Designator=C101|UniqueId=\PLGJJGCQ|Kind=1|AlternatePart=
-Variation16=Designator=IC4|UniqueId=\RGHXLHAY|Kind=1|AlternatePart=
-Variation17=Designator=R561|UniqueId=\HTVNLLSZ|Kind=1|AlternatePart=
-Variation18=Designator=C13|UniqueId=\LLCTMJTC|Kind=1|AlternatePart=
-Variation19=Designator=R6|UniqueId=\JWZAEGED|Kind=1|AlternatePart=
-Variation20=Designator=C1|UniqueId=\FIWRNGXJ|Kind=1|AlternatePart=
-Variation21=Designator=C2|UniqueId=\PQOAYCKX|Kind=1|AlternatePart=
-Variation22=Designator=C4|UniqueId=\CAGJMPHB|Kind=1|AlternatePart=
-Variation23=Designator=C14|UniqueId=\YMEZKJFJ|Kind=1|AlternatePart=
-Variation24=Designator=C15|UniqueId=\LAOUSSUF|Kind=1|AlternatePart=
-Variation25=Designator=C3|UniqueId=\NPCTONWK|Kind=1|AlternatePart=
-Variation26=Designator=C22|UniqueId=\YPJBCHFY|Kind=1|AlternatePart=
-Variation27=Designator=C23|UniqueId=\IIFNIPJQ|Kind=1|AlternatePart=
-Variation28=Designator=C24|UniqueId=\YMSTRHDZ|Kind=1|AlternatePart=
-Variation29=Designator=C27|UniqueId=\XXSHMJSW|Kind=1|AlternatePart=
-Variation30=Designator=C28|UniqueId=\ASMFJLBV|Kind=1|AlternatePart=
-Variation31=Designator=C21|UniqueId=\ZWYLIURW|Kind=1|AlternatePart=
-Variation32=Designator=R9|UniqueId=\RCOELXQI|Kind=1|AlternatePart=
-Variation33=Designator=R552|UniqueId=\VHITRSII|Kind=1|AlternatePart=
-Variation34=Designator=D1|UniqueId=\VUJEELGX|Kind=1|AlternatePart=
+VariationCount=31
+Variation1=Designator=PL1|UniqueId=\JDCSYMYE|Kind=1|AlternatePart=
+Variation2=Designator=SK1|UniqueId=\AHBHSKMJ|Kind=1|AlternatePart=
+Variation3=Designator=U1|UniqueId=\NWXHZSEQ|Kind=1|AlternatePart=
+Variation4=Designator=U2|UniqueId=\UNKIPXSA|Kind=1|AlternatePart=
+Variation5=Designator=IC71|UniqueId=\DJZUXNTK|Kind=1|AlternatePart=
+Variation6=Designator=RST_IN|UniqueId=\EAVHPBAA|Kind=1|AlternatePart=
+Variation7=Designator=SK2|UniqueId=\MAIORGJK|Kind=1|AlternatePart=
+Variation8=Designator=U21|UniqueId=\YHOMWHYI|Kind=1|AlternatePart=
+Variation9=Designator=U22|UniqueId=\SUZOSCTZ|Kind=1|AlternatePart=
+Variation10=Designator=C7|UniqueId=\KKCVHFCX|Kind=1|AlternatePart=
+Variation11=Designator=C8|UniqueId=\XLYEEPUD|Kind=1|AlternatePart=
+Variation12=Designator=C101|UniqueId=\PLGJJGCQ|Kind=1|AlternatePart=
+Variation13=Designator=IC4|UniqueId=\RGHXLHAY|Kind=1|AlternatePart=
+Variation14=Designator=R561|UniqueId=\HTVNLLSZ|Kind=1|AlternatePart=
+Variation15=Designator=C13|UniqueId=\LLCTMJTC|Kind=1|AlternatePart=
+Variation16=Designator=R6|UniqueId=\JWZAEGED|Kind=1|AlternatePart=
+Variation17=Designator=C1|UniqueId=\FIWRNGXJ|Kind=1|AlternatePart=
+Variation18=Designator=C2|UniqueId=\PQOAYCKX|Kind=1|AlternatePart=
+Variation19=Designator=C4|UniqueId=\CAGJMPHB|Kind=1|AlternatePart=
+Variation20=Designator=C14|UniqueId=\YMEZKJFJ|Kind=1|AlternatePart=
+Variation21=Designator=C15|UniqueId=\LAOUSSUF|Kind=1|AlternatePart=
+Variation22=Designator=C3|UniqueId=\NPCTONWK|Kind=1|AlternatePart=
+Variation23=Designator=C22|UniqueId=\YPJBCHFY|Kind=1|AlternatePart=
+Variation24=Designator=C23|UniqueId=\IIFNIPJQ|Kind=1|AlternatePart=
+Variation25=Designator=C24|UniqueId=\YMSTRHDZ|Kind=1|AlternatePart=
+Variation26=Designator=C27|UniqueId=\XXSHMJSW|Kind=1|AlternatePart=
+Variation27=Designator=C28|UniqueId=\ASMFJLBV|Kind=1|AlternatePart=
+Variation28=Designator=C21|UniqueId=\ZWYLIURW|Kind=1|AlternatePart=
+Variation29=Designator=R9|UniqueId=\RCOELXQI|Kind=1|AlternatePart=
+Variation30=Designator=R552|UniqueId=\VHITRSII|Kind=1|AlternatePart=
+Variation31=Designator=D1|UniqueId=\VUJEELGX|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=BOM_RevNo
+Name=Sch_RevNo
 Value=1.0
 
 [Parameter2]
-Name=Engineer_Name
-Value=Codion Ltd
-
-[Parameter3]
-Name=PCB_RevNo
-Value=1.0
-
-[Parameter4]
-Name=Project_Title
-Value=A3000_8MB
-
-[Parameter5]
-Name=ProjectName
-Value=A3000_8MB
-
-[Parameter6]
 Name=Sch_releaseDate
 Value=January 2024
 
+[Parameter3]
+Name=Project_Title
+Value=A3000_8MB
+
+[Parameter4]
+Name=ProjectName
+Value=A3000_8MB
+
+[Parameter5]
+Name=PCB_RevNo
+Value=1.2
+
+[Parameter6]
+Name=Engineer_Name
+Value=Codion Ltd
+
 [Parameter7]
-Name=Sch_RevNo
+Name=BOM_RevNo
 Value=1.0
 
 [Configuration1]
@@ -1060,6 +1058,7 @@ Type155=1
 Type156=1
 Type157=1
 Type158=1
+Type159=1
 
 [Difference Levels]
 Type1=1
@@ -1148,6 +1147,7 @@ Type83=1
 Type84=1
 Type85=1
 Type86=1
+Type87=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1311,6 +1311,8 @@ Type158=0
 Type159=0
 Type160=0
 Type161=0
+Type162=1
+Type163=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
