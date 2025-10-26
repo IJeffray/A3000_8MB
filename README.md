@@ -9,7 +9,9 @@ An 8MB RAM upgrade for Acorn A3000 machines.  The PAL, IC71, is a copy from that
 
 The 1.0 design has been built and tested and works well, but does still need the motherboard reset line to ARM severed and looped to this board, so ARM reset can be controlled from this board -- still looking in to solutions for that.
 
-An updated version using through-board SMT headers for the data bus has NOT been built yet.  This should solve the issue of board alignment - allowing the board to sit perfectly parallel with the motherboard, hopefully reducing issues with MEMC socket contact.
+An updated version using through-board SMT headers (with PCB holes for the tall RAM expansion pins to pass right through) for the data bus which significantly helps the issue of board alignment - allowing the board to sit perfectly parallel with the motherboard, reducing issues with MEMC socket contact.
+
+The self-reset circuit does appear to achieve the reset required without the motherboard mod.
 
 
 ## Licence
